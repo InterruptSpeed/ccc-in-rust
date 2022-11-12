@@ -1,2 +1,2 @@
 # ccc-in-rust
-This repo contains an attempt to learn rust via the examples in the C++ crash course book.
+This repo contains an attempt to learn rust via the examples in the [C++ Crash Course](https://ccc.codes/) book.
