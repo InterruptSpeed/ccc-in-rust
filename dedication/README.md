@@ -10,8 +10,10 @@ cargo add itertools
 ## usage
 
 ```
+cargo fmt
 cargo build --release
 time ./target/release/dedication
+cargo clean
 ```
 
 ### note
